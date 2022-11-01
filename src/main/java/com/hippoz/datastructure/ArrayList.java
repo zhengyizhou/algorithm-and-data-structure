@@ -35,6 +35,7 @@ public class ArrayList<E> {
      * 返回数组是否为空
      * @return
      */
+
     public boolean isEmpty(){
         return size == 0;
     }

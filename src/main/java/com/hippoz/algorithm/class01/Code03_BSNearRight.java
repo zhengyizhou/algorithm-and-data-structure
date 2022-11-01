@@ -1,2 +1,4 @@
-package com.hippoz.algorithm.class01;public class Code03_BSNearRight {
+package com.hippoz.algorithm.class01;
+
+public class Code03_BSNearRight {
 }
